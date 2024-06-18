@@ -13,7 +13,7 @@ While2_3 {
 //        i++;
 //
 //        sum = sum + i;
-//        System.out.println("i= " + i + " sum= " + sum);
+//        System.out.println ("i= " + i + " sum= " + sum);
 //        i++;
 //
 //        sum = sum + i;
